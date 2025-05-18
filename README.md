@@ -34,8 +34,8 @@ Programming/Queries – SQL.
 Database Tools – Teradata, DB Visualizer.
 
 ### LANGUAGES
-English
-Tamil
-Kannada
+- English
+- Tamil
+- Kannada
 
 
