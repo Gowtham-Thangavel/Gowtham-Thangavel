@@ -23,7 +23,7 @@ A skilled Informatica Developer with three years of expertise in designing, deve
 ### EDUCATION 🧑‍🎓
 ##### Bachelor of Engineering (May 2021)
 K.S Rangasamy College of Technology College (Autonomous) - Thiruchengode, Namakkal - 11
-Electrical and Electronics Engineering, CGPA – 8
+- Electrical and Electronics Engineering, CGPA – 8
 
 ### CERTIFICATIONS 📜
 Got certificate from IBM Developer Skills Network (SQL and Relational Databases 101).
